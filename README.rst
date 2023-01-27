@@ -709,3 +709,9 @@ page rendering and painting.
 .. _`downgrade attack`: http://en.wikipedia.org/wiki/SSL_stripping
 .. _`OSI Model`: https://en.wikipedia.org/wiki/OSI_model
 .. _`Spanish`: https://github.com/gonzaleztroyano/what-happens-when-ES
+
+
+Rendering the page
+----------------------
+When a browser receives a response from a web server, it processes the HTML, CSS, and JavaScript files that are included in the response in order to render the web page.The rendering process involves interpreting the HTML and CSS code, rendering any images or other media that are included on the page, and executing any JavaScript code that is present on the page.
+In your case, your browser would receive the response from the web server, which includes the HTML, CSS, and JavaScript files that make up the Google web page.
